@@ -1,0 +1,4 @@
+level-easy
+Category-Web Expliotation
+Description-There is a inspection going on!
+Flag-LCVIT{A1b2_Cd3E_FgH4_5F4g}

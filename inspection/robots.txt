@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /private/
+Disallow: /admin/
+"flag-part-4 = 5F4g}"
