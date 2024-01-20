@@ -1,0 +1,1 @@
+Open the given file, You will get a lot of same characters, that's the uniqueness of it. The clue maybe present in plainsight but not the banner.
