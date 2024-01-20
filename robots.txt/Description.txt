@@ -1,4 +1,3 @@
 level-easy
 Category-Web Expliotation
 Description-How much you know about the robots who talks in morse code
-Flag-LCVIT{MORSEISFUN}
