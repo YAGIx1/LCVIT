@@ -1,0 +1,22 @@
+
+Question 1.
+
+My friend sent me this message, but I can't figure out what it says! Can you help?
+				WVhKbElIbHZkU0J5WldGa2VTQS8=
+
+
+
+Question 2.
+
+Decrypt the following ciphertext to get flag:
+				csion! tno d.giYertovaaultl ous
+Clue: 2024 is a leap year.
+
+
+
+Question 3.
+	
+"I intercepted a suspicious message sent between two unknown agents. It appears to be encrypted using a classic cipher, but I can't quite crack it. Can you help me decipher the message and uncover their secret plans?"
+				Ciphertext:"VGH PNA ZBGURE SVATRE, NAQ V LBH TBGGN SVATRE."
+Clues: It's named after a famous Roman emperor.
+
