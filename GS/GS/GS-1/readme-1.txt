@@ -1,0 +1,1 @@
+The flag is covert here, capture it and bring it to the Chief Wick!.
