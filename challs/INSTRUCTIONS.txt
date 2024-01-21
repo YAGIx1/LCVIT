@@ -1,0 +1,11 @@
+ALL OSINT FLAGS ARE TO BE SUBMITTED IN THE FORM OF LCVIT{LAT_LONG}
+
+ezosint.png -> My friend sent me this photo. Can you find his exact location for me?
+ezosint2.jpg -> I was looking through some random places on google maps. Unfortunately, I did not save the location of this place. Could you help me find it?
+medosint.jpeg -> I received this image from a private investigator friend of mine. Can you find the exact location of the place where this was taken? The only hint I got was that multiple S-tier and A-tier CSGO tournaments have been held here.
+hardosint.png -> The country for this is nearby the medosint country. One hint I can give is that it invaded the medosint country in WW2. Second hint is that it is a major city in the country.
+hardosint2.jpg -> This is a well known great lake in the country it is in. It is also very clearly visible from the ISS. I just need you to find the exact location of the lighthouse in the photo.
+caillou.jpg -> I found this image on a friend's computer. It should contain his password to his encrypted folder hidden in the image somewhere.
+circuit.jpeg -> This is a high quality image of a printed circuit board. A printed circuit board may have multiple layers, which are hidden below one another ;)
+level1000.zip -> This file was found on a criminal's computer. It must have something. Will you help me get the data from this?
+
